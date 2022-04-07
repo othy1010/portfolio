@@ -25,7 +25,7 @@ const About = () => {
           <h1 className="intro__text">About Me.</h1> <br />
           <article>
             <p>
-              Hello there! I'm Seram Nitesh Singh, a Software Engineer and also an Open Source enthusiast. I have done my graduation in Computer Science and Engineering.
+              Hello there! I'm Othmane El Karmy, a Software Engineer at Ensias.
 
               I am deeply passionate about software development. I love spending time building production-ready web applications and also doing open source projects.
 
