@@ -1,3 +1,4 @@
+const url = "http://www.orban-europe.eu/coming-soon5.png"
 const PROJECTS_DATA = [
 
   {
@@ -5,7 +6,7 @@ const PROJECTS_DATA = [
     description:
       'Mobile rhythm game',
     github: 'https://github.com/F-Errami/foys',
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["Kotlin", "Firebase", "Cloud Firestore"]
   },
@@ -13,7 +14,7 @@ const PROJECTS_DATA = [
     title: "NFT",
     description:
       'Marketplace using Web 3.0',
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["NextJs", "MongoDB", "ThirdWeb", "Metamask"]
   },
@@ -22,7 +23,7 @@ const PROJECTS_DATA = [
     description:
       'Auction sales Web application.',
     github: 'https://github.com/othy1010/Auction-me',
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["Spring boot", "Reactjs", "Maven", "JPA", "Docker", "Mysql"]
   },
@@ -31,7 +32,7 @@ const PROJECTS_DATA = [
     description:
       'Dynamic Web Application for field Management.',
     github: 'https://github.com/othy1010/Auction-me',
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["Native PHP", "MYSQL", "HTML", "CSS", "JavaScript", "Jquery", "AJAX"]
   },
@@ -39,7 +40,7 @@ const PROJECTS_DATA = [
     title: "Management Application of external mobility at Ensias",
     description:
       'Dynamic Web Application for field Management.',
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["Oracle Apex", "Oracle", "PL/SQL", "SQL"]
   },
@@ -47,7 +48,7 @@ const PROJECTS_DATA = [
     title: "Kode",
     description:
       'Kids game Compiler',
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["C++"]
   },
@@ -55,7 +56,7 @@ const PROJECTS_DATA = [
     title: "My voxTV",
     description:
       "Design and development of a WebTv platform",
-    imageUrl: 'https://ibb.co/TrQR0g2',
+    imageUrl: url,
     type: ['others', 'project'],
     technologies: ["Flutter", "Firebase", "JavaEE", "Spring", "Git", "Widlfly", "Nginx"]
   },
