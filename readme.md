@@ -6,7 +6,7 @@
 
 </p>
 
-<img src="https://i.ibb.co/MVGLk6b/Capture-d-cran-2022-04-07-142711.png" alt="Capture-d-cran-2022-04-07-142711" border="0">
+<img src="https://i.ibb.co/MVGLk6b/Capture-d-cran-2022-04-07-142711.png" alt="Capture-d-cran-2022-04-07-142711" border="0" width="500" height="600">
 
 ## Running locally in development mode
 
