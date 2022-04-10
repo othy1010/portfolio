@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://codewonders.dev/icons/favicon-96x96.png"/>
+<!-- <img src="https://codewonders.dev/icons/favicon-96x96.png"/> -->
     
 <h1 align="center"><a href="https://othy1010.vercel.app/">Othmane EL karmy</a></h1>
 <p align="center"> 2nd year Software Engineer at Ensias </p>
@@ -123,3 +123,6 @@ project has not been updated for Now 2.0. You may ignore this message for now.
 You can host your Next.js site with any hosting provider. Although it works
 great on Now, it also works great with other providers like Heroku, Amazon Web
 Service, Google Cloud Platform, Microsoft Azure, DigitalOcean and others.
+
+### Credits
+https://www.codewonders.dev/
